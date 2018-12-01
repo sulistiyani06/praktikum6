@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543204382 source:d:\kal.cpp
+	<iostream>
+
+1543204677 source:d:\kalkulator\main.cpp
+	<iostream>
+	<kal.h>
+
+1543204136 d:\kalkulator\\kal.h
+
+1543205665 source:d:\praktikum6\latihan1\main.cpp
+	<iostream>
+	<kal.h>
+
+1543204136 d:\praktikum6\latihan1\kal.h
+
